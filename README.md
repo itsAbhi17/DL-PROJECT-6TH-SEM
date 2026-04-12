@@ -38,7 +38,7 @@ The project is divided into two main parts:
 2. Create and activate a Python virtual environment:
    ```bash
    python -m venv venv
-   # On Windows:
+   # On Windows::::::
    venv\Scripts\activate
    # On macOS/Linux:
    source venv/bin/activate
